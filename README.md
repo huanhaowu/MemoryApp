@@ -26,6 +26,8 @@ npx expo start
 - ReactNative
 - AndroidStudio (Android device emulator)
 
+<br>
+
 ## Screenshots
 | Default State  | Winner State |
 | ------------- |:-------------:|
