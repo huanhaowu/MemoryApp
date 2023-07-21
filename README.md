@@ -1,7 +1,11 @@
-<img src="/MemoryApp banner.png" alt="Blue banner for memory mobile app">
+<img src="/assets/MemoryApp banner.png" alt="Blue banner for memory mobile app">
+
+<br>
 
 ## Description 
 Mobile application developed using ReactNative. Its designed to be a flashcard pairing game, that in order to win all 12 flashcards must have been paired with his similar emoji flashcard, displaying a congratulations message and a button to reset the game. 
+
+<br>
 
 ## Instalation
 1. Make sure to have Node.js and npm (Node Package Manager) installed on your computer.
@@ -22,8 +26,11 @@ npx expo start
 - ReactNative
 - AndroidStudio (Android device emulator)
 
+<br>
+
 ## Screenshots
-<!--
-<img src="/MemoryApp banner.png" alt="Blue banner for memory mobile app">
-<img src="/MemoryApp banner.png" alt="Blue banner for memory mobile app">
--->
+<img src="/assets/Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app">
+
+<br>
+
+<img src="/assets/Winner Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app">
