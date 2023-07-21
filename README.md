@@ -29,8 +29,9 @@ npx expo start
 <br>
 
 ## Screenshots
-<img src="/assets/Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app">
+Application at his default state
+<img src="/assets/Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app" width="200" height="400">
 
 <br>
-
-<img src="/assets/Winner Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app">
+Application when the player has succesfully matched all of the flashcards
+<img src="/assets/Winner Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app" width="200" height="400">
