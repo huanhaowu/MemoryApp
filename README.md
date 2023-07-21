@@ -34,7 +34,7 @@ npx expo start
 <br>
 | Default State                          | Winner State                          |
 | :-----------------------------------: | :-----------------------------------: |
-| <img src="/assets/Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app" width="200" height="400"> | <img src="/assets/Winner Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app" width="200" height="400"> |
+| ![Default State Image](/assets/Screenshot MemoryGame App.png) | ![Winner State Image](/assets/Winner Screenshot MemoryGame App.png) |
 | Application at its default state.     | Application when the player has successfully matched all of the flashcards. |
 
 <br>
