@@ -25,3 +25,9 @@ npx expo start
 ## Tecnologies
 - ReactNative
 - AndroidStudio (Android device emulator)
+
+## Screenshots
+| Default State  | Winner State |
+| ------------- |:-------------:|
+| <img src="/assets/Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app" width="200" height="400"> | <img src="/assets/Winner Screenshot MemoryGame App.png" alt="Blue banner for memory mobile app" width="200" height="400"> |
+| Application at its default state.      | Application when the player has successfully matched all of the flashcards.     |
